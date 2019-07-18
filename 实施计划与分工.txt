@@ -1,0 +1,18 @@
+分工：
+王智弘：基于Python语言的数据清理及聚类算法的实现，
+             文档填写，PPT制作，答辩
+王子豪：基于Java语言的数据清理
+             Java语言MapReduce实现
+陈佳源：基于Springboot使用Echart实现数据的可视化
+杨斌涵：基于Java语言聚类算法的实现
+汪珂航：基于Java语言MapReduce实现
+
+进度安排：
+7.15 周一：Python、Java数据清理
+7.16 周二：Python、Java的MapReduce
+7.17 周三：Python、Java聚类算法实现
+7.18 周四：对省份的MapReduce（先用Java，有时间再说Python）、数据可视化
+7.19 周五：文档书写、PPT制作、代码汇总、录屏演示
+7.20 周六：答辩
+
+
